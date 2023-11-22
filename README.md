@@ -1,5 +1,7 @@
 # shopping_list
 
+[Link Aplikasi](https://install.appcenter.ms/users/skyclave/apps/shopping-list/distribution_groups/public)
+
 A new Flutter project.
 
 ## Getting Started
